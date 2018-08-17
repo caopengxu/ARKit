@@ -13,6 +13,9 @@
 		BF16D95D21215742007DABF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF16D95B21215742007DABF3 /* Main.storyboard */; };
 		BF16D95F21215745007DABF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF16D95E21215745007DABF3 /* Assets.xcassets */; };
 		BF16D96221215745007DABF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF16D96021215745007DABF3 /* LaunchScreen.storyboard */; };
+		BFB11E8A2126B297009BB799 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BFB11E872126B297009BB799 /* 1.jpg */; };
+		BFB11E8B2126B297009BB799 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BFB11E882126B297009BB799 /* 3.jpg */; };
+		BFB11E8C2126B297009BB799 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BFB11E892126B297009BB799 /* 2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		BF16D95E21215745007DABF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF16D96121215745007DABF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF16D96321215745007DABF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFB11E872126B297009BB799 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		BFB11E882126B297009BB799 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		BFB11E892126B297009BB799 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 		BF16D95421215742007DABF3 /* Keyboard */ = {
 			isa = PBXGroup;
 			children = (
+				BFB11E872126B297009BB799 /* 1.jpg */,
+				BFB11E892126B297009BB799 /* 2.jpg */,
+				BFB11E882126B297009BB799 /* 3.jpg */,
 				BF16D95521215742007DABF3 /* AppDelegate.swift */,
 				BF16D95721215742007DABF3 /* art.scnassets */,
 				BF16D95921215742007DABF3 /* ViewController.swift */,
@@ -127,8 +136,11 @@
 			files = (
 				BF16D95821215742007DABF3 /* art.scnassets in Resources */,
 				BF16D96221215745007DABF3 /* LaunchScreen.storyboard in Resources */,
+				BFB11E8C2126B297009BB799 /* 2.jpg in Resources */,
 				BF16D95F21215745007DABF3 /* Assets.xcassets in Resources */,
+				BFB11E8B2126B297009BB799 /* 3.jpg in Resources */,
 				BF16D95D21215742007DABF3 /* Main.storyboard in Resources */,
+				BFB11E8A2126B297009BB799 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
